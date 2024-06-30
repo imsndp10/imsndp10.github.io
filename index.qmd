@@ -1,0 +1,13 @@
+---
+title: "Home"
+---
+
+# Welcome to Sandeep Sharma's Website
+
+I am a research enthusiast in labor economics, behavioral economics, and sports economics. My work focuses on understanding the intricacies of human behavior and labor market outcomes in different contexts.
+
+## Latest Updates
+
+- **New Publication**: [Title of the publication](#)
+- **Blog Post**: [Title of the blog post](#)
+

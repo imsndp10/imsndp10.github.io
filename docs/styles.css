@@ -1,1 +1,38 @@
-/* css styles */
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+}
+
+header, footer {
+  background-color: #f8f9fa;
+  padding: 10px 0;
+}
+
+header a, footer a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+header a:hover, footer a:hover {
+  text-decoration: underline;
+}
+
+nav {
+  margin-bottom: 20px;
+}
+
+nav a {
+  margin-right: 15px;
+  color: #007bff;
+}
+
+nav a:hover {
+  color: #0056b3;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
