@@ -9,9 +9,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "Sandeep Sharma",
     "section": "",
-    "text": "I am a research enthusiast in labor economics, behavioral economics, and sports economics. My work focuses on understanding the intricacies of human behavior and labor market outcomes in different contexts.\n\n\n\nNew Publication: Title of the publication\nBlog Post: Title of the blog post"
+    "text": "Sandeep Sharma\n\n\nResearcher in Labor Economics, Behavioral Economics, and Sports Economics\n\nLearn More About Me\n\n\n\nWelcome to My Website\n\n\nHere you will find my latest research, publications, blog posts, and projects.\n\n\n\n\n© 2024 Sandeep Sharma"
   },
   {
     "objectID": "projects.html",
@@ -40,5 +40,54 @@
     "title": "Home",
     "section": "",
     "text": "Feel free to reach out via email@example.com or connect with me on LinkedIn."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "MA in Economics, Tribhuvan University, 2021\nBBA, Kathmandu University, 2016\n\n\n\n\n\nLabor Economics\nBehavioral Economics\nSports Economics\n\n\n\n\n\n\n\n\nResearch Assistant, CEDECON, 2020-2022\nSurvey Enumerator, CEDECON, 2019\n\n\n\n\n\nEconometric Analysis\nData Visualization\nStatistical Software: R, Stata\n\n\n\n\nFeel free to download my full CV here."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "MA in Economics, Tribhuvan University, 2021\nBBA, Kathmandu University, 2016"
+  },
+  {
+    "objectID": "cv.html#research-interests",
+    "href": "cv.html#research-interests",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Labor Economics\nBehavioral Economics\nSports Economics"
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Research Assistant, CEDECON, 2020-2022\nSurvey Enumerator, CEDECON, 2019"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Econometric Analysis\nData Visualization\nStatistical Software: R, Stata"
+  },
+  {
+    "objectID": "cv.html#contact",
+    "href": "cv.html#contact",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Feel free to download my full CV here."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "My Publications\nWorking Paper: Wage differential between formal and informal employment in Nepal"
   }
 ]
