@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About me"
 image: sandeep.jpg
 about:
   template: jolla
@@ -15,4 +15,4 @@ about:
       href: https://github.com/imsndp10
 ---
 
-About this blog
+# Welcome to Sandeep Sharma's Website

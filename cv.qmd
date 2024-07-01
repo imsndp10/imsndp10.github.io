@@ -1,5 +1,34 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
 ---
 
+# Curriculum Vitae
 
+## Education
+
+- **MA in Economics**, Tribhuvan University, 2021
+- **BBA**, Kathmandu University, 2016
+
+## Research Interests
+
+- Labor Economics
+- Behavioral Economics
+- Sports Economics
+
+## Publications
+
+
+## Experience
+
+- **Research Assistant**, CEDECON, 2020-2022
+- **Survey Enumerator**, CEDECON, 2019
+
+## Skills
+
+- Econometric Analysis
+- Data Visualization
+- Statistical Software: R, Stata
+
+## Contact
+
+Feel free to download my full CV [here](CV.pdf).

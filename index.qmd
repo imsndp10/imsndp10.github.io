@@ -1,13 +1,18 @@
 ---
-title: "Home"
+title: "Sandeep Sharma"
 ---
 
-# Welcome to Sandeep Sharma's Website
+<section class="hero">
+  <h1>Sandeep Sharma</h1>
+  <p>Researcher in Labor Economics, Behavioral Economics, and Sports Economics</p>
+  <a href="about.qmd" class="btn btn-primary">Learn More About Me</a>
+</section>
 
-I am a research enthusiast in labor economics, behavioral economics, and sports economics. My work focuses on understanding the intricacies of human behavior and labor market outcomes in different contexts.
+<section class="content">
+  <h2>Welcome to My Website</h2>
+  <p>Here you will find my latest research, publications, blog posts, and projects.</p>
+</section>
 
-## Latest Updates
-
-- **New Publication**: [Title of the publication](#)
-- **Blog Post**: [Title of the blog post](#)
-
+<footer>
+  <p>&copy; 2024 Sandeep Sharma</p>
+</footer>
