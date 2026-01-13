@@ -1,0 +1,53 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sandeep Sharma" # Your name is more professional than "Personal Website"
+  description: "Economist | Researcher | PhD Student"
+  site-url: "https://imsndp10.github.io"
+  favicon: assets/images/Sandeep_potrait.JPG
+  
+  open-graph:
+    description: "Personal website of Sandeep Sharma, PhD Student in Economics."
+    image: assets/images/Sandeep_potrait.JPG
+    
+  twitter-card:
+    image: assets/images/Sandeep_potrait.JPG
+    creator: "@OhToBeAGoo0ner"
+  
+  navbar:
+    sticky: true          # Stays at top while scrolling
+    background: "#ffffff" # Modern clean white
+    search: true
+    left:                 # Moved links to left for traditional academic style
+      - text: "Home"
+        href: index.qmd
+      - text: "CV"
+        href: content/cv.qmd
+      - text: "Research"      # "Research" sounds more academic than "Publications"
+        href: content/publications.qmd
+      - text: "Projects"
+        href: content/projects.qmd
+    right:
+      - icon: github
+        href: https://github.com/imsndp10
+      - icon: linkedin
+        href: https://www.linkedin.com/in/sandeepsharma2016/
+
+  page-footer:
+    border: true
+    left: "© 2026 Sandeep Sharma"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: assets/css/styles.css
+    toc: true
+    toc-depth: 3
+    toc-title: "Contents"
+    link-external-newwindow: true
+    mainfont: "Inter, system-ui, -apple-system, sans-serif"
+
+editor: visual

@@ -1,0 +1,32 @@
+---
+title: "Publications & Research"
+format:
+  html:
+    toc: true
+---
+
+## Working Papers
+
+**"Messi Plays Minimax: Strategic Decision-Making in Football"** *(Work in Progress)* \* Applying Game Theory and Minimax strategies to analyze penalty kicks and tactical positioning in professional football.
+
+**"Wage Differential Between Formal and Informal Employment in Nepal: A Quantile Regression Approach"** *(Work in Progress)* \* Investigating the earnings gap between formal and informal sectors using household survey data and distributional analysis.
+
+------------------------------------------------------------------------
+
+## Conference Presentations
+
+**"Wage gap and informal employment in Nepal"** \| 2022\
+*CEDECON Annual International Conference in Economics(CAICE)* \| Kathmandu, Nepal
+
+**"Decent work in the informal economy of Nepal"** \| 2019\
+*15th South Asian Economics Students' Meet (SAESM)* \| Colombo, Sri Lanka
+
+------------------------------------------------------------------------
+
+## Other Research
+
+**"Volatility and speculation on stock market in Nepal"** *Undergraduate Thesis \| Kathmandu University*
+
+------------------------------------------------------------------------
+
+*More publications and working papers will be added soon.*

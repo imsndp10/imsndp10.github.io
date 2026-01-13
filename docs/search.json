@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sandeep Sharma",
+    "section": "",
+    "text": "I am a PhD Student in Economics at the University of Nebraska-Lincoln, specializing in Applied Microeconomics. My research interests involve the intersection of labor markets and development, with a focus on how policy interventions shape economic outcomes in emerging economies."
+  },
+  {
+    "objectID": "index.html#biography",
+    "href": "index.html#biography",
+    "title": "Sandeep Sharma",
+    "section": "",
+    "text": "I am a PhD Student in Economics at the University of Nebraska-Lincoln, specializing in Applied Microeconomics. My research interests involve the intersection of labor markets and development, with a focus on how policy interventions shape economic outcomes in emerging economies."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Sandeep Sharma",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nPrimary: Labor Economics, Development Economics\nSecondary: Econometrics, Policy Evaluation"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Sandeep Sharma",
+    "section": "Education",
+    "text": "Education\nPhD in Economics | 2025 - Present\nUniversity of Nebraska-Lincoln | Lincoln, USA\nMA in Economics | 2018 - 2023\nTribhuvan University | Kirtipur, Nepal\n\nWelcome to my personal website. You can find my latest publications, ongoing projects, and blog posts using the navigation menu above."
+  },
+  {
+    "objectID": "content/publications.html",
+    "href": "content/publications.html",
+    "title": "Publications & Research",
+    "section": "",
+    "text": "“Messi Plays Minimax: Strategic Decision-Making in Football” (Work in Progress) * Applying Game Theory and Minimax strategies to analyze penalty kicks and tactical positioning in professional football.\n“Wage Differential Between Formal and Informal Employment in Nepal: A Quantile Regression Approach” (Work in Progress) * Investigating the earnings gap between formal and informal sectors using household survey data and distributional analysis."
+  },
+  {
+    "objectID": "content/publications.html#working-papers",
+    "href": "content/publications.html#working-papers",
+    "title": "Publications & Research",
+    "section": "",
+    "text": "“Messi Plays Minimax: Strategic Decision-Making in Football” (Work in Progress) * Applying Game Theory and Minimax strategies to analyze penalty kicks and tactical positioning in professional football.\n“Wage Differential Between Formal and Informal Employment in Nepal: A Quantile Regression Approach” (Work in Progress) * Investigating the earnings gap between formal and informal sectors using household survey data and distributional analysis."
+  },
+  {
+    "objectID": "content/publications.html#conference-presentations",
+    "href": "content/publications.html#conference-presentations",
+    "title": "Publications & Research",
+    "section": "Conference Presentations",
+    "text": "Conference Presentations\n“Wage gap and informal employment in Nepal” | 2022\nCEDECON Annual International Conference in Economics(CAICE) | Kathmandu, Nepal\n“Decent work in the informal economy of Nepal” | 2019\n15th South Asian Economics Students’ Meet (SAESM) | Colombo, Sri Lanka"
+  },
+  {
+    "objectID": "content/publications.html#other-research",
+    "href": "content/publications.html#other-research",
+    "title": "Publications & Research",
+    "section": "Other Research",
+    "text": "Other Research\n“Volatility and speculation on stock market in Nepal” Undergraduate Thesis | Kathmandu University\n\nMore publications and working papers will be added soon."
+  },
+  {
+    "objectID": "content/projects/premierleague.html",
+    "href": "content/projects/premierleague.html",
+    "title": "The Premier League Title Race: A Decade of Dominance",
+    "section": "",
+    "text": "Analysis Overview\nWhile this began as a data visualization exercise, the results tell a compelling story of market concentration in football. We see the shift from the “unpredictable” era—highlighted by Leicester City’s 5000-to-1 title win—to a high-efficiency duopoly dominated by Manchester City and Liverpool, where finishing with 90+ points no longer guarantees a trophy.\n\n\nSeason-by-Season Visualization\n\n2024/252023/242022/232021/222020/212019/202018/192017/182016/172015/16\n\n\n\n\n\nSeason 24/25\n\n\n\n\n\n\n\nSeason 23/24\n\n\n\n\n\n\n\nSeason 22/23\n\n\n\n\n\n\n\nSeason 21/22\n\n\n\n\n\n\n\nSeason 20/21\n\n\n\n\n\n\n\nSeason 19/20\n\n\n\n\n\n\n\nSeason 18/19\n\n\n\n\n\n\n\nSeason 17/18\n\n\n\n\n\n\n\nSeason 16/17\n\n\n\n\n\n\n\nSeason 15/16\n\n\n\n\n\n\n\nData & Methodology\nThe data was sourced from Football-Data.co.uk and processed in R.\n\nVisualization: Built with ggplot2 using a custom-themed layout (\\(16 \\times 9\\) ratio).\nEconomic Lens: The project examines the “winner-take-all” nature of modern football, where the marginal return on point accumulation has shifted drastically over the last decade."
+  },
+  {
+    "objectID": "content/projects.html",
+    "href": "content/projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "The Premier League Title Race: A Decade of Dominance\n\n\n\nData Visualization\n\n\nR\n\n\nSports Economics\n\n\n\nVisualizing the points gap and competitive intensity of the English Top Flight from 2015 to 2025.\n\n\n\nSandeep Sharma\n\n\nJan 9, 2026\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "content/cv.html",
+    "href": "content/cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download Full CV (PDF)"
+  },
+  {
+    "objectID": "content/cv.html#education",
+    "href": "content/cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\nPhD Student in Economics | 2025 – Present\nUniversity of Nebraska–Lincoln\nMaster of Arts in Economics | 2018 – 2023\nCentral Department of Economics (CEDECON), Tribhuvan University, Nepal * Thesis: “Wage differential between formal and informal employment in Nepal”"
+  },
+  {
+    "objectID": "content/cv.html#teaching-experience",
+    "href": "content/cv.html#teaching-experience",
+    "title": "Curriculum Vitae",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\nTeaching Assistant | University of Nebraska–Lincoln | Fall 2025\nECON 212: Principles of Microeconomics | Instructor: Dr. Brenden Timpe\n\nInstruction: Led weekly one-hour review sessions to clarify core microeconomic theories and problem-solving techniques.\nAssessment: Managed and graded research projects and examinations for a large cohort of 145+ undergraduate students.\nSupport: Held weekly office hours to provide one-on-one assistance with microeconomics-based problem sets and complex student queries.\n\nVisiting Faculty | Nepal College of Management | 2022 – 2023 * Taught Behavioral Economics and mentored undergraduate Research Projects."
+  },
+  {
+    "objectID": "content/cv.html#research-highlights",
+    "href": "content/cv.html#research-highlights",
+    "title": "Curriculum Vitae",
+    "section": "Research Highlights",
+    "text": "Research Highlights\nGraduate Research Assistant | Tribhuvan University | 2021 * Focused on Social Accounting Matrix (SAM) construction and CGE modeling for COVID-19 economic shock analysis in Nepal.\nSurvey Enumerator | Tribhuvan University | 2021 * Collected 270 primary samples in Madhesh province for health and education synergy research."
+  },
+  {
+    "objectID": "content/cv.html#skills-honors",
+    "href": "content/cv.html#skills-honors",
+    "title": "Curriculum Vitae",
+    "section": "Skills & Honors",
+    "text": "Skills & Honors\n\nSoftware: R, Stata, LaTeX, Kobo Toolbox.\nLanguages: Nepali, English, Hindi.\nHonors: President of Student Council, Nepal College of Management (2014-2015)."
+  }
+]

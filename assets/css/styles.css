@@ -1,0 +1,51 @@
+/* --- Navigation Bar Customization --- */
+.navbar {
+  border-bottom: 1px solid #e9ecef;
+  font-weight: 500;
+  padding-top: 0.8rem;
+  padding-bottom: 0.8rem;
+}
+
+.navbar-brand {
+  font-weight: 700 !important;
+  color: #2c3e50 !important;
+  letter-spacing: -0.5px;
+}
+
+/* --- Typography & Colors --- */
+body {
+  color: #333333;
+  line-height: 1.7;
+}
+
+h1, h2, h3 {
+  color: #2c3e50;
+  font-weight: 700;
+}
+
+/* Make links look professional (Deep Blue/Grey) */
+a {
+  color: #2980b9;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* --- Sidebar/TOC --- */
+#quarto-toc-toggle {
+  color: #2c3e50;
+}
+
+/* --- Project Cards (if you use them) --- */
+.card {
+  border: 1px solid #eee;
+  border-radius: 10px;
+  transition: transform 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+}

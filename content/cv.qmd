@@ -1,0 +1,47 @@
+---
+title: "Curriculum Vitae"
+format:
+  html:
+    toc: true
+---
+
+[Download Full CV (PDF)](../assets/docs/sandeep_sharma_cv.pdf){.btn .btn-outline-primary .btn-sm role="button"}
+
+------------------------------------------------------------------------
+
+## Education
+
+**PhD Student in Economics** \| 2025 – Present\
+*University of Nebraska–Lincoln*
+
+**Master of Arts in Economics** \| 2018 – 2023\
+*Central Department of Economics (CEDECON), Tribhuvan University, Nepal* \* **Thesis:** "Wage differential between formal and informal employment in Nepal"
+
+------------------------------------------------------------------------
+
+## Teaching Experience
+
+**Teaching Assistant** \| University of Nebraska–Lincoln \| Fall 2025\
+*ECON 212: Principles of Microeconomics* \| **Instructor:** [Dr. Brenden Timpe](https://business.unl.edu/person/brenden-timpe/)
+
+-   **Instruction:** Led weekly one-hour review sessions to clarify core microeconomic theories and problem-solving techniques.
+-   **Assessment:** Managed and graded research projects and examinations for a large cohort of **145+ undergraduate students**.
+-   **Support:** Held weekly office hours to provide one-on-one assistance with microeconomics-based problem sets and complex student queries.
+
+**Visiting Faculty** \| Nepal College of Management \| 2022 – 2023 \* Taught **Behavioral Economics** and mentored undergraduate **Research Projects**.
+
+------------------------------------------------------------------------
+
+## Research Highlights
+
+**Graduate Research Assistant** \| Tribhuvan University \| 2021 \* Focused on **Social Accounting Matrix (SAM)** construction and **CGE modeling** for COVID-19 economic shock analysis in Nepal.
+
+**Survey Enumerator** \| Tribhuvan University \| 2021 \* Collected **270 primary samples** in Madhesh province for health and education synergy research.
+
+------------------------------------------------------------------------
+
+## Skills & Honors
+
+-   **Software:** R, Stata, LaTeX, Kobo Toolbox.
+-   **Languages:** Nepali, English, Hindi.
+-   **Honors:** President of Student Council, Nepal College of Management (2014-2015).

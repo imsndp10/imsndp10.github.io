@@ -1,0 +1,40 @@
+---
+title: "Sandeep Sharma"
+image: assets/images/Sandeep_potrait.JPG
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sandeepsharma2016/
+    - icon: github
+      text: GitHub
+      href: https://github.com/imsndp10
+    - icon: envelope
+      text: Email
+      href: mailto:imsndp10@gmail.com
+    - icon: file-earmark-pdf
+      text: CV
+      href: content/cv.qmd
+---
+
+## Biography
+
+I am a PhD Student in Economics at the University of Nebraska-Lincoln, specializing in **Applied Microeconomics**. My research interests involve the intersection of labor markets and development, with a focus on how policy interventions shape economic outcomes in emerging economies.
+
+## Research Interests
+
+-   **Primary:** Labor Economics, Development Economics
+-   **Secondary:** Econometrics, Policy Evaluation
+
+## Education
+
+**PhD in Economics** \| 2025 - Present\
+*University of Nebraska-Lincoln* \| Lincoln, USA
+
+**MA in Economics** \| 2018 - 2023\
+*Tribhuvan University* \| Kirtipur, Nepal
+
+------------------------------------------------------------------------
+
+Welcome to my personal website. You can find my [latest publications](content/publications.qmd), [ongoing projects](content/projects.qmd), and [blog posts](content/blog.qmd) using the navigation menu above.
